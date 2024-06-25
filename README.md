@@ -1,6 +1,6 @@
 # About Me
 
-I am Eugene - C# developer. Currently I have one project in active development - [VR Quest](https://github.com/anufrienkoek/VR-QuestRoom)
+I am Eugene - C# developer. Currently I have one project in active development - [VR QuestRoom](https://github.com/anufrienkoek/VR-QuestRoom)
 
 ### Skills
 
