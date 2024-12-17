@@ -1,22 +1,37 @@
-# About Me
+<h2 align="center"> Евгений Ануфриенко </h2>
+<h3 align="center">  Unity developer </h3>
 
-I am Eugene - Unity developer.
+<p align="center">
+   <a href="https://t.me/xrnation"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@xrwitheugene"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-### Skills
 
-![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=blueviolet)
-![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=red&color=black)
-![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
 
-### Tools
+## Обо мне:
 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=blueviolet)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity)
-![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
+1. Занимаюсь разработкой приложений на Unity 5 лет. <br/>
+2. Cоздавал VR-проекты с нуля, писал скрипты для жанра HyperCasual, выстраивал локации на уровне. <br/>
+3. Менторил подростков, организовывал Хакатоны и преподавал в детском технопарке «Кванториум» <br/>
+4. Веду блог о разработке на Unity.
 
-### Statistics
+## Ключевые навыки:
+- Разработка на Unity;
+- Работа с Git;
+- Работа в команде;
+- Работа по методологиям Agile, Scrum;
+- Понимание принципов ООП, SOLID, DRY;
+- Использование паттернов (Стратегия, декоратор, шаблонный метод, наблюдатель, ObjectPool)
+- Использование DI containers, Zenject;
+- Linq;
+- Открыт к изучению нового.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anufrienkoek&theme=transparent&show_icons=true&hide=issues,contribs&count_private=true)
+## Портфолио:
 
-<img src="https://streak-stats.demolab.com/?user=anufrienkoek&theme=transparent" width="50%">
+### GAME 1
+
+Жанр: Hypercasual <br/>
+Описание: <br/>
+Скриншоты: <br/>
+Ссылка на игру: [name](#) <br/>
+Ссылка на репозиторий:  <br/>
